@@ -15,7 +15,7 @@ The primary aim of this repository is to engage deeply with foundational and adv
 
 Analyses are performed using a suite of open-source tools and libraries, including but not limited to:
 
-- **Python**: `NumPy`, `Pandas`, `Seaborn`
+- **Python**: `NumPy`, `Pandas`, `Seaborn`, `Matplotlip`
 - **Google Colab**: For literate programming and interactive exploration
 - **Datasets**: Drawn from public domain sources for illustrative and experimental purposes
 
